@@ -1,4 +1,5 @@
-/GitPractice2.iml
+*.iml
+*.xml
 /.idea/
 /out/
 
